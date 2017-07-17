@@ -1,0 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
+
+ Use the following CSS rules to specify these families:
+
+    font-family: 'Source Sans Pro', sans-serif;
+@IMPORT
+<style>
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+</style> 
